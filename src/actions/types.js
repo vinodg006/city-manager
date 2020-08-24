@@ -1,0 +1,8 @@
+export const LOAD_ALL_CITIES = "LOAD_ALL_CITIES";
+
+export const ADD_CITY = "ADD_CITY";
+export const DELETE_CITY = "DELETE_CITY";
+export const UPDATE_FLAG = "UPDATE_FLAG";
+
+export const SHORTLIST_CITY = "SHORTLIST_CITY";
+export const REMOVE_SHORTLISTED_CITY = "REMOVE_SHORTLISTED_CITY";

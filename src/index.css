@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
+body,
+html {
+  height: 100%;
+}
+body {
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  background: #e9ecff;
+  font-family: "Roboto";
+  -webkit-font-smoothing: antialiased;
+  background-image: url("https://miro.medium.com/max/1733/1*mom8fLwwqSp9bE0gogtLnw.png");
+  background-position: 100% 100%;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
